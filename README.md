@@ -2,6 +2,8 @@
 
 An average Space Shooter made in a day. 
 
+**WARNING: THIS GAME DOES NOT HAVE SETTINGS. AUDIO MAY BE SUPER LOUD ON STARTUP**
+
 ## Features  
 
 - **Weapon System**: Three different shooting mechanics for your ship.
@@ -9,7 +11,7 @@ An average Space Shooter made in a day.
 - **Enemy Randomizer**: Random generation of enemies.  
 - **Boosters**: Items that you can pick up after enemies are slain.
 
-_Warning: This game gets real difficult, real fast._
+_This game gets real difficult, real fast._
 
 ## Technology  
 
